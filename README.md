@@ -46,6 +46,11 @@ Run Server
 ```
 
 ### Executing program Frontend
+instalar dependencias 
+```
+npm install
+```
+
 
 Run angular
 ```
